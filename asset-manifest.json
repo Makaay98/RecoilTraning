@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RecoilTraning/static/css/main.4b84308d.chunk.css",
+    "main.js": "/RecoilTraning/static/js/main.61580be5.chunk.js",
+    "main.js.map": "/RecoilTraning/static/js/main.61580be5.chunk.js.map",
+    "runtime-main.js": "/RecoilTraning/static/js/runtime-main.bcb96d40.js",
+    "runtime-main.js.map": "/RecoilTraning/static/js/runtime-main.bcb96d40.js.map",
+    "static/js/2.fa0a51b2.chunk.js": "/RecoilTraning/static/js/2.fa0a51b2.chunk.js",
+    "static/js/2.fa0a51b2.chunk.js.map": "/RecoilTraning/static/js/2.fa0a51b2.chunk.js.map",
+    "index.html": "/RecoilTraning/index.html",
+    "static/css/main.4b84308d.chunk.css.map": "/RecoilTraning/static/css/main.4b84308d.chunk.css.map",
+    "static/js/2.fa0a51b2.chunk.js.LICENSE.txt": "/RecoilTraning/static/js/2.fa0a51b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcb96d40.js",
+    "static/js/2.fa0a51b2.chunk.js",
+    "static/css/main.4b84308d.chunk.css",
+    "static/js/main.61580be5.chunk.js"
+  ]
+}
